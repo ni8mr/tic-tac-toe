@@ -1,1 +1,1 @@
-#### A tic-tac-toe game based on ReAct official tutorial
+#### A tweet box using ReactJS
